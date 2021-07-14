@@ -18,5 +18,15 @@ Practicing Plotly/Dash on airline data.
 3. Create function for callback which built graphs with 2 different options ( 2 dropdown options) 
 4. Create callback decorator funtion for interaction
 
+### Pictures of the Dashboard 
+
 
 ![Picture](https://github.com/Folongton/airline_performance_dashboard/blob/master/dash%20pics%20for%20git/1.png)
+
+![Picture](https://github.com/Folongton/airline_performance_dashboard/blob/master/dash%20pics%20for%20git/2.png)
+
+![Picture](https://github.com/Folongton/airline_performance_dashboard/blob/master/dash%20pics%20for%20git/3.png)
+
+![Picture](https://github.com/Folongton/airline_performance_dashboard/blob/master/dash%20pics%20for%20git/4.png)
+
+![Picture](https://github.com/Folongton/airline_performance_dashboard/blob/master/dash%20pics%20for%20git/5.png)
